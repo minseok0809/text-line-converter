@@ -11,7 +11,7 @@
 <br><br>
 
 ## Reference
-Tistory Blog
+Blog
 <br>[흔한 공대생의 일상기록](https://commonengineerr.tistory.com/7)
 
 <br><br>
