@@ -8,6 +8,8 @@
 ## Library
 `Tkinter` `PyInstaller` `regex` `clipboard`
 
+<br><br>
+
 ## Reference
 Tistory Blog
 <br>[흔한 공대생의 일상기록](https://commonengineerr.tistory.com/7)
