@@ -1,2 +1,15 @@
-# text-line-converter
-텍스트 대소문자 변환, 한 줄 변환,  특수 문자 제거 프로그램
+# Text Line Converter
+
+<br>
+
+![text_line_converter_window](https://github.com/minseok0809/text-line-converter/assets/97289420/112bd089-02d4-4aa2-a138-6ca609402257)
+
+<br><br>
+## Library
+`Tkinter` `PyInstaller` `regex` `clipboard`
+
+## Reference
+Tistory Blog
+<br>[흔한 공대생의 일상기록](https://commonengineerr.tistory.com/7)
+
+<br><br>
