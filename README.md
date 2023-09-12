@@ -12,6 +12,6 @@
 
 ## Reference
 Blog
-<br>[흔한 공대생의 일상기록](https://commonengineerr.tistory.com/7)
+<br>[흔한 공대생의 일상기록: Python Tkinter - BMI 계산기 만들기](https://commonengineerr.tistory.com/7)
 
 <br><br>
