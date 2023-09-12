@@ -2,7 +2,7 @@
 
 <br>
 
-![text_line_converter_window](https://github.com/minseok0809/text-line-converter/assets/97289420/112bd089-02d4-4aa2-a138-6ca609402257)
+![text_line_converter_window](https://github.com/minseok0809/text-line-converter/assets/97289420/c634fd7b-b002-4350-89d9-cebca7b5d1da)
 
 <br><br>
 ## Library
