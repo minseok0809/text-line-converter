@@ -95,6 +95,7 @@ def clean():
 
     
 window = Tk()
+window.title('Text Line Converter')
 window_width = 800
 window_height = 500
 window_pos_x = 700

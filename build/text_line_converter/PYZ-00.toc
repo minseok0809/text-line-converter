@@ -1,4 +1,4 @@
-('D:\\vscode_project\\exercise\\20230912\\build\\text_line_converter\\PYZ-00.pyz',
+('D:\\vscode_project\\exercise\\20230912_1\\build\\text_line_converter\\PYZ-00.pyz',
  [('PyQt5',
    'C:\\Users\\MinSeok\\anaconda3\\lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
