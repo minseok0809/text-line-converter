@@ -6,7 +6,7 @@
 
 <br><br>
 
-## Turn Your Python Script into Executable File
+## Turn Python Script into Executable File
 ```
 pyinstaller -w text_line_converter.py
 ```
