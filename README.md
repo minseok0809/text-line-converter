@@ -2,7 +2,7 @@
 
 <br>
 
-![text_line_converter_window](https://github.com/minseok0809/text-line-converter/assets/97289420/46614be0-9f42-4f1f-91f3-1f88f13e7de4)
+![text_line_converter_window]((https://github.com/user-attachments/assets/3937361d-88ee-4aa7-a67c-0c01a85abc4d)
 
 <br><br>
 
