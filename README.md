@@ -2,7 +2,7 @@
 
 <br>
 
-![text_line_converter_window]((https://github.com/user-attachments/assets/3937361d-88ee-4aa7-a67c-0c01a85abc4d)
+![Text Line Converter](https://github.com/user-attachments/assets/3937361d-88ee-4aa7-a67c-0c01a85abc4d)
 
 <br><br>
 
